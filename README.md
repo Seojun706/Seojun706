@@ -18,7 +18,7 @@
 
 
 ### 🚀 Careers
-> ⚫ **Undergraduate Research Engineer** at Kangwon National University, [**Robotics Lab**](https://robotics.hyundai.com/en/) (2024.1 ~ 2024.7)  
+> ⚫ **Undergraduate Research Engineer** at Kangwon National University, [**AOMR Lab**](https://kangwon-univ-aomrlab.web.app/) (2024.1 ~ 2024.7)  
 > ⚫ **Internship** at NewEM in Kangwon National University, [**NewEM**](http://www.newemkorea.com/) (2024.1 ~ 2024.2)  
 > ⚫ **Automotive Technician and Driver** at Republic of Korea Army, 27th Infantry Division (2020.2 ~ 2021.8)
 
