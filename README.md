@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
 
-**Hi, I'm @Seojun706 !!👋**
+**Hi, I'm Seojun Yoon in Korea !!👋**
 ====
 <br />
 
@@ -39,8 +39,7 @@
 </div>
 
 
-### 👀 Who wants to know more about me, click it!
-
+### 👀 About me!
 <div align=center>
   
 <!--[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)]()-->
