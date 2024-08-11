@@ -10,10 +10,10 @@
 
 
 ### :orange_book: Reasearch Interest  
-> 🟠 **Artificial Intelligence**
-> 🟠 **Machine Learning**
+> 🟠 **Deep Learning, Reinforcement Learning**
 > 🟠 **Computer Vision**  
 > 🟠 **Natural Language Processing**
+> 🟠 **Large Language Model**
 > 🟠 **Robotics Engineering**
 
 
