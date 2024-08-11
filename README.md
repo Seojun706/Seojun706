@@ -12,9 +12,9 @@
 ### :orange_book: Reasearch Interest  
 > 🟠 **Artificial Intelligence**
 > 🟠 **Machine Learning**
-> 🟠 **SLAM**  
-> 🟠 **Computer Vision**
-> 🟠 **Robot Operating System**
+> 🟠 **Computer Vision**  
+> 🟠 **Natural Language Processing**
+> 🟠 **Robotics Engineering**
 
 
 ### 🚀 Careers
@@ -67,11 +67,13 @@
 -->
 
 <div align =center>
-  
+
+<!--
 ## :muscle: Problem Solving 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aaron0706)](https://solved.ac/aaron0706)<br/>
 </div>
+-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
  
