@@ -17,8 +17,8 @@
 
 
 ### 🚀 Careers
-> ⚫ **Undergraduate Research Engineer** at Yonsei University, [**CII Lab**](https://cii-yonsei.com/) (2024.9 ~ present)  
-> ⚫ **Undergraduate Research Engineer** at Kangwon National University, [**AOMR Lab**](https://kangwon-univ-aomrlab.web.app/) (2024.1 ~ 2024.7)  
+> ⚫ **Undergraduate Researcher** at Yonsei University, [**CII Lab**](https://cii-yonsei.com/) (2024.9 ~ present)  
+> ⚫ **Undergraduate Researcher** at Kangwon National University, [**AOMR Lab**](https://kangwon-univ-aomrlab.web.app/) (2024.1 ~ 2024.7)  
 > ⚫ **Internship** at NewEM in Kangwon National University, [**NewEM**](http://www.newemkorea.com/) (2024.1 ~ 2024.2)  
 > ⚫ **Automotive Technician and Driver** at Republic of Korea Army, 27th Infantry Division (2020.2 ~ 2021.8)
 
