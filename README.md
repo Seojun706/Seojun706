@@ -14,10 +14,10 @@
 > 🟠 **Machine Learning**
 > 🟠 **Computational Imaging**
 > 🟠 **Computer Vision**
-> 🟠 **Robotics Engineering**
 
 
 ### 🚀 Careers
+> ⚫ **Undergraduate Research Engineer** at Yonsei University, [**CII Lab**](https://cii-yonsei.com/) (2024.9 ~ present)  
 > ⚫ **Undergraduate Research Engineer** at Kangwon National University, [**AOMR Lab**](https://kangwon-univ-aomrlab.web.app/) (2024.1 ~ 2024.7)  
 > ⚫ **Internship** at NewEM in Kangwon National University, [**NewEM**](http://www.newemkorea.com/) (2024.1 ~ 2024.2)  
 > ⚫ **Automotive Technician and Driver** at Republic of Korea Army, 27th Infantry Division (2020.2 ~ 2021.8)
@@ -34,9 +34,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-=FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS noetic & humble-22314E?style=flat&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 </div>
 
 
