@@ -10,9 +10,10 @@
 
 
 ### :orange_book: Reasearch Interest  
-> 🟠 **Deep Learning**
-> 🟠 **Machine Learning**
-> 🟠 **Computational Imaging**
+> 🟠 **Deep Learning / Machine Learning**
+> 🟠 **MEMS**
+> 🟠 **Mechatronics**
+> 🟠 **Biomedical Engineering**
 > 🟠 **Computer Vision**
 
 
