@@ -6,19 +6,19 @@
 
 ### 👨‍🎓 **Education**
 >  🔵 [**B.S in Mechatronics Eng.**](https://me.kangwon.ac.kr/mecha/index.do) in Kangwon National University, South Korea (2019.3 ~ 2025.2)  
-<!--  🔵 **M.S in ??**,  South Korea (2025.3 ~ ) -->  
+>  🔵 [**M.S ~ Ph.D in Mechanics Eng.**](https://me.yonsei.ac.kr/me/index.do) in Yonsei University, South Korea (2025.2 ~ Present)  
 
 
 ### :orange_book: Reasearch Interest  
 > 🟠 **Deep Learning / Machine Learning**
 > 🟠 **MEMS**
 > 🟠 **Mechatronics**
-> 🟠 **Biomedical Engineering**
+> 🟠 **Electromagnetics**
 > 🟠 **Computer Vision**
 
 
 ### 🚀 Careers
-> ⚫ **Undergraduate Researcher** at Yonsei University, [**CII Lab**](https://cii-yonsei.com/) (2024.9 ~ 2024.11)  
+> ⚫ **Intregrated M.S and Ph D. program** at Yonsei University, [**NEMD Lab**](http://nemd.yonsei.ac.kr/frontpage.asp?catalogid=nemd&language=ko) (2024.9 ~ 2024.11)  
 > ⚫ **Undergraduate Researcher** at Kangwon National University, [**AOMR Lab**](https://kangwon-univ-aomrlab.web.app/) (2024.1 ~ 2024.7)  
 > ⚫ **Internship** at NewEM in Kangwon National University, [**NewEM**](http://www.newemkorea.com/) (2024.1 ~ 2024.2)  
 > ⚫ **Automotive Technician and Driver** at Republic of Korea Army, 27th Infantry Division (2020.2 ~ 2021.8)
@@ -34,8 +34,7 @@
 <div align = center >
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-=FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 </div>
 
@@ -47,7 +46,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaron0706@naver.com)](mailto:aaron0706@naver.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seojun-yoon-992b04294/)](https://www.linkedin.com/in/seojun-yoon-992b04294/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@user-seojun706)
-<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://taeyoung96.github.io/)-->
+<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://.github.io/)-->
 
 </div>
 
